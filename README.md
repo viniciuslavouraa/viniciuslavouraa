@@ -18,4 +18,3 @@
   <a href="https://www.linkedin.com/in/vinicius-lavoura-14a306262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-(https://github-readme-stats.vercel.app/api/pin/?username=viniciuslavouraa&repo=github-readme-stats)](https://github.com/viniciuslavouraa/github-readme-stats)
